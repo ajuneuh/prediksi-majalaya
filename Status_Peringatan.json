@@ -1,0 +1,40 @@
+{
+ "waktu_pembaruan_WIB": "2026-09-30 10:00",
+ "status": "NORMAL",
+ "tingkat": 0,
+ "pesan": "Tidak ada tanda banjir dari Citarum di Majalaya untuk beberapa jam ke depan.",
+ "alasan": [],
+ "debit_terukur_m3s": 11.9,
+ "tinggi_air_terukur_m": 1.06,
+ "perkiraan_3_jam_ke_depan": {
+  "debit_paling_mungkin_m3s": 11.5,
+  "debit_jika_lebih_tinggi_m3s": 11.7,
+  "tinggi_air_paling_mungkin_m": 1.03,
+  "tinggi_air_jika_lebih_tinggi_m": 1.05
+ },
+ "perkiraan_24_jam_debit_maks_m3s": {
+  "paling_mungkin": 12.0,
+  "jika_lebih_tinggi": 14.4
+ },
+ "genangan": {
+  "luas_paling_mungkin_km2": 0.0,
+  "luas_jika_lebih_tinggi_km2": 0.0,
+  "kedalaman_paling_mungkin": "tidak ada genangan berarti",
+  "kedalaman_jika_lebih_tinggi": "tidak ada genangan berarti"
+ },
+ "ambang_BBWS": {
+  "Waspada = Peringatan 1": {
+   "debit_m3s": 62.9,
+   "tinggi_air_m": 3.81
+  },
+  "Siaga = Peringatan 2": {
+   "debit_m3s": 69.4,
+   "tinggi_air_m": 4.11
+  },
+  "Awas = Kritis": {
+   "debit_m3s": 78.4,
+   "tinggi_air_m": 4.51
+  }
+ },
+ "keterangan": "Prakiraan otomatis dari data telemetri BBWS Citarum, BUKAN peringatan resmi. Ikuti informasi BBWS Citarum dan BPBD. 'Paling mungkin' = P50; 'jika lebih tinggi' = P90 (kemungkinan kecil terlampaui, tetapi saat banjir besar kenyataan bisa lebih tinggi). Tinggi air dihitung dari debit dengan kurva debit (datum acuan)."
+}
