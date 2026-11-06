@@ -1,0 +1,25 @@
+Waktu Prediksi WIB,Prediksi Debit (m3/s),P10 (m3/s),P90 (m3/s),Sumber,Model
+2026-11-06 20:00:00,13.54,12.32,14.41,fallback_hujan,ML1_Majalaya_v1
+2026-11-06 21:00:00,13.62,12.32,14.43,fallback_hujan,ML1_Majalaya_v1
+2026-11-06 22:00:00,13.8,12.3,14.51,fallback_hujan,ML1_Majalaya_v1
+2026-11-06 23:00:00,14.01,12.25,14.65,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 00:00:00,14.2,12.18,14.83,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 01:00:00,14.34,12.12,15.06,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 02:00:00,14.44,12.09,15.33,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 03:00:00,14.51,12.06,15.55,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 04:00:00,14.53,12.02,15.75,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 05:00:00,14.54,12.0,16.02,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 06:00:00,14.53,11.96,16.37,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 07:00:00,14.5,11.94,16.63,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 08:00:00,14.48,11.91,16.77,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 09:00:00,14.47,11.9,16.92,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 10:00:00,14.47,11.91,16.99,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 11:00:00,14.47,11.95,16.99,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 12:00:00,14.46,11.99,16.95,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 13:00:00,14.43,12.02,16.85,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 14:00:00,14.4,12.03,16.7,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 15:00:00,14.36,12.03,16.54,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 16:00:00,14.31,12.01,16.37,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 17:00:00,14.27,11.97,16.2,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 18:00:00,14.26,11.95,16.04,fallback_hujan,ML1_Majalaya_v1
+2026-11-07 19:00:00,14.26,11.95,15.92,fallback_hujan,ML1_Majalaya_v1
