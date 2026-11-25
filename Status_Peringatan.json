@@ -1,11 +1,11 @@
 {
- "waktu_pembaruan_WIB": "2026-11-25 07:00",
+ "waktu_pembaruan_WIB": "2026-11-25 10:00",
  "status": "NORMAL",
  "tingkat": 0,
  "pesan": "Tidak ada tanda banjir dari Citarum di Majalaya untuk beberapa jam ke depan.",
  "alasan": [],
- "debit_terukur_m3s": 14.3,
- "tinggi_air_terukur_m": 1.22,
+ "debit_terukur_m3s": 13.8,
+ "tinggi_air_terukur_m": 1.19,
  "perkiraan_3_jam_ke_depan": {
   "debit_paling_mungkin_m3s": 14.8,
   "debit_jika_lebih_tinggi_m3s": 15.1,
