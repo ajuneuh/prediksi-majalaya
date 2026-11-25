@@ -1,23 +1,23 @@
 {
- "waktu_pembaruan_WIB": "2026-11-25 18:20",
+ "waktu_pembaruan_WIB": "2026-11-25 18:30",
  "status": "WASPADA",
  "tingkat": 1,
  "pesan": "Waspada: air Citarum di Majalaya berpotensi naik mendekati batas peringatan dalam 1-3 jam ke depan. Pantau informasi.",
  "alasan": [
-  "prakiraan P90 3 jam ke depan 66.7 m3/s >= ambang Peringatan 1",
+  "prakiraan P90 3 jam ke depan 66.8 m3/s >= ambang Peringatan 1",
   "aturan hujan masih aktif s/d 20:00"
  ],
- "debit_terukur_m3s": 51.2,
- "tinggi_air_terukur_m": 3.25,
+ "debit_terukur_m3s": 55.7,
+ "tinggi_air_terukur_m": 3.47,
  "perkiraan_3_jam_ke_depan": {
-  "debit_paling_mungkin_m3s": 59.0,
-  "debit_jika_lebih_tinggi_m3s": 66.7,
+  "debit_paling_mungkin_m3s": 59.1,
+  "debit_jika_lebih_tinggi_m3s": 66.8,
   "tinggi_air_paling_mungkin_m": 3.63,
   "tinggi_air_jika_lebih_tinggi_m": 3.99
  },
  "perkiraan_24_jam_debit_maks_m3s": {
-  "paling_mungkin": 59.0,
-  "jika_lebih_tinggi": 66.7
+  "paling_mungkin": 59.1,
+  "jika_lebih_tinggi": 66.8
  },
  "genangan": {
   "luas_paling_mungkin_km2": 0.0,
