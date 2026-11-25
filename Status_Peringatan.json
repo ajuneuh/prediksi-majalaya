@@ -1,31 +1,31 @@
 {
- "waktu_pembaruan_WIB": "2026-11-25 19:20",
+ "waktu_pembaruan_WIB": "2026-11-25 19:30",
  "status": "SIAGA",
  "tingkat": 2,
  "pesan": "Siaga: air Citarum di Majalaya diperkirakan melewati batas peringatan dalam 1-3 jam ke depan. Bersiaplah.",
  "alasan": [
-  "debit terukur 68.1 m3/s >= ambang Waspada 62.9",
-  "prakiraan P50 3 jam ke depan 70.7 m3/s >= ambang Peringatan 1",
-  "prakiraan P90 3 jam ke depan 77.3 m3/s >= ambang Peringatan 1",
+  "debit terukur 73.0 m3/s >= ambang Siaga 69.4",
+  "prakiraan P50 3 jam ke depan 72.8 m3/s >= ambang Peringatan 1",
+  "prakiraan P90 3 jam ke depan 79.4 m3/s >= ambang Kritis",
   "aturan hujan masih aktif s/d 20:00"
  ],
- "debit_terukur_m3s": 68.1,
- "tinggi_air_terukur_m": 4.05,
+ "debit_terukur_m3s": 73.0,
+ "tinggi_air_terukur_m": 4.27,
  "perkiraan_3_jam_ke_depan": {
-  "debit_paling_mungkin_m3s": 70.7,
-  "debit_jika_lebih_tinggi_m3s": 77.3,
-  "tinggi_air_paling_mungkin_m": 4.17,
-  "tinggi_air_jika_lebih_tinggi_m": 4.46
+  "debit_paling_mungkin_m3s": 72.8,
+  "debit_jika_lebih_tinggi_m3s": 79.4,
+  "tinggi_air_paling_mungkin_m": 4.26,
+  "tinggi_air_jika_lebih_tinggi_m": 4.55
  },
  "perkiraan_24_jam_debit_maks_m3s": {
-  "paling_mungkin": 70.7,
-  "jika_lebih_tinggi": 77.3
+  "paling_mungkin": 72.8,
+  "jika_lebih_tinggi": 79.4
  },
  "genangan": {
-  "luas_paling_mungkin_km2": 0.02,
-  "luas_jika_lebih_tinggi_km2": 0.27,
+  "luas_paling_mungkin_km2": 0.09,
+  "luas_jika_lebih_tinggi_km2": 0.29,
   "kedalaman_paling_mungkin": "sampai semata kaki (< 30 cm)",
-  "kedalaman_jika_lebih_tinggi": "sampai semata kaki (< 30 cm)"
+  "kedalaman_jika_lebih_tinggi": "sampai selutut (30-50 cm)"
  },
  "ambang_BBWS": {
   "Waspada = Peringatan 1": {
