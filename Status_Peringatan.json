@@ -1,26 +1,26 @@
 {
- "waktu_pembaruan_WIB": "2026-11-28 19:30",
+ "waktu_pembaruan_WIB": "2026-11-28 22:00",
  "status": "NORMAL",
  "tingkat": 0,
  "pesan": "Tidak ada tanda banjir dari Citarum di Majalaya untuk beberapa jam ke depan.",
  "alasan": [],
- "debit_terukur_m3s": 18.1,
- "tinggi_air_terukur_m": 1.46,
+ "debit_terukur_m3s": 17.1,
+ "tinggi_air_terukur_m": 1.4,
  "perkiraan_3_jam_ke_depan": {
-  "debit_paling_mungkin_m3s": 20.2,
-  "debit_jika_lebih_tinggi_m3s": 23.6,
-  "tinggi_air_paling_mungkin_m": 1.59,
-  "tinggi_air_jika_lebih_tinggi_m": 1.79
+  "debit_paling_mungkin_m3s": 16.9,
+  "debit_jika_lebih_tinggi_m3s": 20.7,
+  "tinggi_air_paling_mungkin_m": 1.39,
+  "tinggi_air_jika_lebih_tinggi_m": 1.62
  },
  "perkiraan_24_jam_debit_maks_m3s": {
-  "paling_mungkin": 20.6,
-  "jika_lebih_tinggi": 28.7
+  "paling_mungkin": 20.3,
+  "jika_lebih_tinggi": 28.3
  },
  "genangan": {
-  "luas_paling_mungkin_km2": 0.01,
-  "luas_jika_lebih_tinggi_km2": 0.01,
-  "kedalaman_paling_mungkin": "sampai semata kaki (< 30 cm)",
-  "kedalaman_jika_lebih_tinggi": "sampai semata kaki (< 30 cm)"
+  "luas_paling_mungkin_km2": 0.0,
+  "luas_jika_lebih_tinggi_km2": 0.0,
+  "kedalaman_paling_mungkin": "tidak ada genangan berarti",
+  "kedalaman_jika_lebih_tinggi": "tidak ada genangan berarti"
  },
  "ambang_BBWS": {
   "Waspada = Peringatan 1": {
